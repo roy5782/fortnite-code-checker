@@ -25,4 +25,8 @@ responsecontent = responsecontent.replace("'", "")
 
 print(responsecontent)
 
+print()
+
+print("Press ENTER to close the program...")
+
 input()
