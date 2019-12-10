@@ -9,4 +9,4 @@ Its really simple. Just make sure you have at least Python 3.x installed on your
 ![program](https://i.imgur.com/45SiJIy.png)
 
 ## Credits
-This program is powered by the nitestats.com API
+This program is powered by the [nitestats.com](https://nitestats.com) API
